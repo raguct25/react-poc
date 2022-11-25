@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ghost {
+  background: lightblue !important;
+}
+
+.div_class {
+  border-width: 0.5rem;
+  border-color: yellow;
+  border-style: solid;
+  cursor: move;
+  margin: 0.5rem;
+}
